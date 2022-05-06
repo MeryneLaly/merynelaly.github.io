@@ -53,6 +53,8 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
+
+
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
@@ -414,6 +416,12 @@ h5, .h5 {
 h6, .h6 {
   font-size: 1rem;
 }
+
+.header {
+  background-color: #41312D;
+  
+}
+
 
 .lead {
   font-size: 1.25rem;
